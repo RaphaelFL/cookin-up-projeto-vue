@@ -1,13 +1,31 @@
-Crie um projeto Vue do zero 
+# 🚀 Portfólio
 
-Aprenda o que são componentes e suas vantagens
+Portfólio desenvolvido com Vue.
 
-Utilize diretivas do Vue, como v-if, v-for, v-bind e v-on, para facilitar o seu desenvolvimento
+## 🎯 Objetivo do projeto
 
-Entenda conceitos fundamentais de frameworks front-end, como estado e reatividade
+Foi realizado este projeto com o intuito de aplicar os conhecimentos adquiridos com Vue.
 
-Aplique comunicação entre componentes com props e eventos
+## 📝 Tecnologias
 
-Conheça os métodos de ciclo de vida do Vue
+- [Vue.js](https://vuejs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-Utilize o TypeScript para fornecer uma maior segurança de tipos para a aplicação
+## ⚙️ Instalação
+
+Para que este rode em sua máquina, siga os passos abaixo:
+
+```bash
+# Clone o repositório em alguma pasta em sua máquina
+
+Instale as dependências digitando no termimal:
+$ npm i
+
+Rode a aplicação no modo de desenvolvimento.
+$ npm run dev
+
+Abra http://localhost:3000 no seu navegador para visualizar o projeto
+```
+
+## Licença
+Copyright © 2021 Raphael Figueira Lopes.
